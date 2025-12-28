@@ -1,7 +1,7 @@
 # Ritz Vincent Culanag
 
 > [!IMPORTANT]
-> **Game Creator** at [SOPHI Outsourcing](https://sophi-outsourcing.com/) \
+> **Lead Game Buillder** at [SOPHI Outsourcing](https://sophi-outsourcing.com/) \
 > **Languages:** Python, Java, Kotlin, C#, Dart, JavaScript, HTML, CSS, SCSS, SQL \
 > **Frameworks:** Django, Jetpack Compose, Vue, Bootstrap, Tailwind, Bulma, WPF \
 > **Database:** MSSQL, MySQL, SQLite, Room, Postgres, MongoDB \
@@ -25,3 +25,4 @@
 > This user loves parrots 🦜\
 > This user loves cats 🐈 \
 > This user is always curious 🧠
+
