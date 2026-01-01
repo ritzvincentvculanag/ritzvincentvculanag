@@ -9,10 +9,10 @@
 > **PaaS:** Heroku, Vercel
 
 > [!NOTE]
-> **Learning:** Django, Vue \
+> **Learning:** Django, Nuxt, n8n, Spring \
 > **Interests:** Ruby, Ruby on Rails, Rust, Flutter \
 > **Long Term Goal:** Continue Star Generation \
-> **Short Term Goal:** Achieve Proficiency in Django and Vue
+> **Short Term Goal:** Achieve Proficiency in Django and Nuxt
 
 > [!NOTE]  
 > *Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.*
