@@ -10,7 +10,7 @@
 
 > [!NOTE]
 > **Learning:** Django, Nuxt, n8n, Spring \
-> **Interests:** iOS Development, Linux \
+> **Interests:** iOS Development, Linux, AI \
 > **Long Term Goal:** Continue Star Generation \
 > **Short Term Goal:** Achieve Proficiency in Django and Nuxt
 
