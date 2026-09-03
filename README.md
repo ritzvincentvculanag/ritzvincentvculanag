@@ -6,7 +6,8 @@
 > **Frameworks:** Django, Jetpack Compose, Vue, Bootstrap, Tailwind, Bulma, WPF \
 > **Database:** MSSQL, MySQL, SQLite, Room, Postgres, MongoDB \
 > **Tools:** Git, Linux, Bash, Gulp \
-> **PaaS:** Heroku, Vercel
+> **PaaS:** Heroku, Vercel, GitHub \
+> **SaaS:** Chatbase, Bokun, Bogowi
 
 > [!NOTE]
 > **Learning:** Django, Nuxt, n8n, Spring \
@@ -25,4 +26,3 @@
 > This user loves parrots 🦜\
 > This user loves cats 🐈 \
 > This user is always curious 🧠
-
